@@ -1,0 +1,22 @@
+# --- Секреты: НИКОГДА не коммитить ---
+credentials.json
+.env
+
+# --- Выходные файлы парсера ---
+wb_results.xlsx
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- IDE ---
+.idea/
+.vscode/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
