@@ -64,7 +64,7 @@ Wildberries не предоставляет единого открытого AP
 Bash
 
 ```
-git clone https://github.com/<your-username>/wb-parser.git
+git clone https://github.com/flow1k00/wb-parser.git
 cd wb-parser
 python -m venv .venv
 
